@@ -1,1 +1,7 @@
 # Royals-Winning-Formula
+
+Royals Winning Formula is a project in which I intend to analyze data from the Royals 2014 and 2015 World Series runs in order to develop a single metric: The Royals Winning Formula (RWF)
+
+There are clearly many ways in which MLB teams can achieve success. In a league in which home runs are incerasing every year as teams strive for more and more power, the '14-'15 Royals stood out for their strategy of playing "small-ball," getting speed on the basepaths, playing stellar defense, and possesing one of the best bull-pens of all time. This strategy made a lot of sense for the Royals - their home Kauffman Stadium has one of the largest fields in the game, making it more difficult to hit home runs and to defend power hitting (unless, of course, you have speedy outfielders who can cover a lot of grass). This begs the question: is Dayton Moore going to attempt to use the same formula to make the Royals next playoff run happen?
+
+In this project I will start by using Pandas dataframes and the Seaborn data visualization library to explore the data from the Royals World Series teams in a Jupyter notebook. From there I will attempt to create a metric that evaluates the performance of a team based on the aspects that made this team who they were. We will be able to see other teams from MLB history that had similar strategies and see where the current team is on this path. Perhaps we can even predict when we might see another deep playoff run by our boys in blue! 
